@@ -11,6 +11,7 @@
 		<Item Name="StateCluster.ctl" Type="VI" URL="../Controls/StateCluster.ctl"/>
 	</Item>
 	<Item Name="Read XML" Type="Folder">
+		<Item Name="Deserialize CD XML FIle.vi" Type="VI" URL="../Read XML/Deserialize CD XML FIle.vi"/>
 		<Item Name="read button list.vi" Type="VI" URL="../Read XML/read button list.vi"/>
 		<Item Name="Read Custom Device VI.vi" Type="VI" URL="../Read XML/Read Custom Device VI.vi"/>
 		<Item Name="read dependency small.vi" Type="VI" URL="../Read XML/read dependency small.vi"/>
@@ -23,7 +24,6 @@
 		<Item Name="Read Pages.vi" Type="VI" URL="../Read XML/Read Pages.vi"/>
 		<Item Name="Read Path.vi" Type="VI" URL="../Read XML/Read Path.vi"/>
 		<Item Name="Read Timing Source.vi" Type="VI" URL="../Read XML/Read Timing Source.vi"/>
-		<Item Name="Read XML.vi" Type="VI" URL="../Read XML/Read XML.vi"/>
 	</Item>
 	<Item Name="subVI" Type="Folder">
 		<Item Name="Config Global.vi" Type="VI" URL="../subVI/Config Global.vi"/>

@@ -5,25 +5,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Controls" Type="Folder">
+		<Item Name="ActionVITypes.ctl" Type="VI" URL="../Controls/ActionVITypes.ctl"/>
 		<Item Name="AddMessage.ctl" Type="VI" URL="../Controls/AddMessage.ctl"/>
 		<Item Name="FilePaths.ctl" Type="VI" URL="../Controls/FilePaths.ctl"/>
 		<Item Name="MoveMessage.ctl" Type="VI" URL="../Controls/MoveMessage.ctl"/>
+		<Item Name="RunTimeObjectsVariantCluster.ctl" Type="VI" URL="../Controls/RunTimeObjectsVariantCluster.ctl"/>
+		<Item Name="RunTimeObjectTypes.ctl" Type="VI" URL="../Controls/RunTimeObjectTypes.ctl"/>
 		<Item Name="StateCluster.ctl" Type="VI" URL="../Controls/StateCluster.ctl"/>
-	</Item>
-	<Item Name="Read XML" Type="Folder">
-		<Item Name="Deserialize CD XML FIle.vi" Type="VI" URL="../Read XML/Deserialize CD XML FIle.vi"/>
-		<Item Name="read button list.vi" Type="VI" URL="../Read XML/read button list.vi"/>
-		<Item Name="Read Custom Device VI.vi" Type="VI" URL="../Read XML/Read Custom Device VI.vi"/>
-		<Item Name="read dependency small.vi" Type="VI" URL="../Read XML/read dependency small.vi"/>
-		<Item Name="Read Depends.vi" Type="VI" URL="../Read XML/Read Depends.vi"/>
-		<Item Name="read help.vi" Type="VI" URL="../Read XML/read help.vi"/>
-		<Item Name="Read Init VI.vi" Type="VI" URL="../Read XML/Read Init VI.vi"/>
-		<Item Name="Read Loc String.vi" Type="VI" URL="../Read XML/Read Loc String.vi"/>
-		<Item Name="Read Main GUID.vi" Type="VI" URL="../Read XML/Read Main GUID.vi"/>
-		<Item Name="Read menu item.vi" Type="VI" URL="../Read XML/Read menu item.vi"/>
-		<Item Name="Read Pages.vi" Type="VI" URL="../Read XML/Read Pages.vi"/>
-		<Item Name="Read Path.vi" Type="VI" URL="../Read XML/Read Path.vi"/>
-		<Item Name="Read Timing Source.vi" Type="VI" URL="../Read XML/Read Timing Source.vi"/>
 	</Item>
 	<Item Name="subVI" Type="Folder">
 		<Item Name="Config Global.vi" Type="VI" URL="../subVI/Config Global.vi"/>
@@ -38,37 +26,6 @@
 		<Item Name="Save.vi" Type="VI" URL="../subVI/Save.vi"/>
 		<Item Name="SaveAs.vi" Type="VI" URL="../subVI/SaveAs.vi"/>
 		<Item Name="SaveDialog.vi" Type="VI" URL="../subVI/SaveDialog.vi"/>
-	</Item>
-	<Item Name="Write XML" Type="Folder">
-		<Item Name="Create Loc String Object.vi" Type="VI" URL="../Write XML/Create Loc String Object.vi"/>
-		<Item Name="Create Path Object.vi" Type="VI" URL="../Write XML/Create Path Object.vi"/>
-		<Item Name="Write Basic CD Properties.vi" Type="VI" URL="../Write XML/Write Basic CD Properties.vi"/>
-		<Item Name="Write Init VI Properties.vi" Type="VI" URL="../Write XML/Write Init VI Properties.vi"/>
-		<Item Name="Write Page ActionVI Properties.vi" Type="VI" URL="../Write XML/Write Page ActionVI Properties.vi"/>
-		<Item Name="Write Page Button List Properties.vi" Type="VI" URL="../Write XML/Write Page Button List Properties.vi"/>
-		<Item Name="Write Page General Properties.vi" Type="VI" URL="../Write XML/Write Page General Properties.vi"/>
-		<Item Name="Write Page Runtime Menu Properties.vi" Type="VI" URL="../Write XML/Write Page Runtime Menu Properties.vi"/>
-		<Item Name="Write Pages Properties.vi" Type="VI" URL="../Write XML/Write Pages Properties.vi"/>
-		<Item Name="Write RT VI Properties.vi" Type="VI" URL="../Write XML/Write RT VI Properties.vi"/>
-		<Item Name="Writie Timing Src Properties.vi" Type="VI" URL="../Write XML/Writie Timing Src Properties.vi"/>
-	</Item>
-	<Item Name="XML Controls" Type="Folder">
-		<Item Name="Button Type.ctl" Type="VI" URL="../XML Controls/Button Type.ctl"/>
-		<Item Name="Button.ctl" Type="VI" URL="../XML Controls/Button.ctl"/>
-		<Item Name="Custom Device basics.ctl" Type="VI" URL="../XML Controls/Custom Device basics.ctl"/>
-		<Item Name="Custom Device VI.ctl" Type="VI" URL="../XML Controls/Custom Device VI.ctl"/>
-		<Item Name="Dependency three item small.ctl" Type="VI" URL="../XML Controls/Dependency three item small.ctl"/>
-		<Item Name="Execution Types.ctl" Type="VI" URL="../XML Controls/Execution Types.ctl"/>
-		<Item Name="help.ctl" Type="VI" URL="../XML Controls/help.ctl"/>
-		<Item Name="Initialization VI.ctl" Type="VI" URL="../XML Controls/Initialization VI.ctl"/>
-		<Item Name="Menu Item.ctl" Type="VI" URL="../XML Controls/Menu Item.ctl"/>
-		<Item Name="Page.ctl" Type="VI" URL="../XML Controls/Page.ctl"/>
-		<Item Name="Path Cluster.ctl" Type="VI" URL="../XML Controls/Path Cluster.ctl"/>
-		<Item Name="Paths - from timing source.ctl" Type="VI" URL="../XML Controls/Paths - from timing source.ctl"/>
-		<Item Name="Source Distribution for Custom Device VI.ctl" Type="VI" URL="../XML Controls/Source Distribution for Custom Device VI.ctl"/>
-		<Item Name="Source Distribution for TimingSource.ctl" Type="VI" URL="../XML Controls/Source Distribution for TimingSource.ctl"/>
-		<Item Name="Target.ctl" Type="VI" URL="../XML Controls/Target.ctl"/>
-		<Item Name="Timing Source.ctl" Type="VI" URL="../XML Controls/Timing Source.ctl"/>
 	</Item>
 	<Item Name="Configuration Tool Main.vi" Type="VI" URL="../Configuration Tool Main.vi"/>
 </Library>

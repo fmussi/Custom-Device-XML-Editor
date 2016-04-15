@@ -90,18 +90,6 @@
 			<Item Name="RunTimeMenuItem.lvclass" Type="LVClass" URL="../Classes/RunTimeMenuItem/RunTimeMenuItem.lvclass"/>
 			<Item Name="ActionVI.lvclass" Type="LVClass" URL="../Classes/ActionVI/ActionVI.lvclass"/>
 		</Item>
-		<Item Name="Type Defs" Type="Folder">
-			<Item Name="Main Custom Device Properties.ctl" Type="VI" URL="../Custom Device Type Defs/Main Custom Device Properties.ctl"/>
-			<Item Name="Initialization VI Properties.ctl" Type="VI" URL="../Custom Device Type Defs/Initialization VI Properties.ctl"/>
-			<Item Name="Timing Source Properties.ctl" Type="VI" URL="../Custom Device Type Defs/Timing Source Properties.ctl"/>
-			<Item Name="ActionVIs Properties.ctl" Type="VI" URL="../Custom Device Type Defs/ActionVIs Properties.ctl"/>
-			<Item Name="ButtonLists Properties.ctl" Type="VI" URL="../Custom Device Type Defs/ButtonLists Properties.ctl"/>
-			<Item Name="Page Properties.ctl" Type="VI" URL="../Custom Device Type Defs/Page Properties.ctl"/>
-			<Item Name="RunTimeMenus Properties.ctl" Type="VI" URL="../Custom Device Type Defs/RunTimeMenus Properties.ctl"/>
-			<Item Name="RunTimeObjectTypes.ctl" Type="VI" URL="../Custom Device Type Defs/RunTimeObjectTypes.ctl"/>
-			<Item Name="ActionVITypes.ctl" Type="VI" URL="../Custom Device Type Defs/ActionVITypes.ctl"/>
-			<Item Name="RunTimeObjectsVariantCluster.ctl" Type="VI" URL="../Custom Device Type Defs/RunTimeObjectsVariantCluster.ctl"/>
-		</Item>
 		<Item Name="Glyphs" Type="Folder">
 			<Item Name="button.png" Type="Document" URL="../Glyphs/button.png"/>
 			<Item Name="buttons.png" Type="Document" URL="../Glyphs/buttons.png"/>
@@ -119,6 +107,7 @@
 			<Item Name="pxi target.png" Type="Document" URL="../Glyphs/pxi target.png"/>
 		</Item>
 		<Item Name="Configuration Tool.lvlib" Type="Library" URL="../Configuration Tool.lvlib"/>
+		<Item Name="VeriStand XML Parser.lvlib" Type="Library" URL="../VeriStand XML Parser.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>

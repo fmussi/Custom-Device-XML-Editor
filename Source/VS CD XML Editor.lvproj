@@ -108,6 +108,7 @@
 		</Item>
 		<Item Name="Configuration Tool.lvlib" Type="Library" URL="../Configuration Tool.lvlib"/>
 		<Item Name="VeriStand XML Parser.lvlib" Type="Library" URL="../VeriStand XML Parser.lvlib"/>
+		<Item Name="Dependencies Properties.ctl" Type="VI" URL="../XML Controls/Dependencies Properties.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>

@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Read XML" Type="Folder">
 		<Item Name="Deserialize CD XML FIle.vi" Type="VI" URL="../Read XML/Deserialize CD XML FIle.vi"/>
+		<Item Name="Read All Dependencies Properties.vi" Type="VI" URL="../Read XML/Read All Dependencies Properties.vi"/>
 		<Item Name="Read Custom Device VI.vi" Type="VI" URL="../Read XML/Read Custom Device VI.vi"/>
 		<Item Name="Read Init VI.vi" Type="VI" URL="../Read XML/Read Init VI.vi"/>
 		<Item Name="Read Loc String.vi" Type="VI" URL="../Read XML/Read Loc String.vi"/>
@@ -22,6 +23,7 @@
 		<Item Name="Create Loc String Object.vi" Type="VI" URL="../Write XML/Create Loc String Object.vi"/>
 		<Item Name="Create Path Object.vi" Type="VI" URL="../Write XML/Create Path Object.vi"/>
 		<Item Name="Write Basic CD Properties.vi" Type="VI" URL="../Write XML/Write Basic CD Properties.vi"/>
+		<Item Name="Write Dependencies Properties.vi" Type="VI" URL="../Write XML/Write Dependencies Properties.vi"/>
 		<Item Name="Write Init VI Properties.vi" Type="VI" URL="../Write XML/Write Init VI Properties.vi"/>
 		<Item Name="Write Page ActionVI Properties.vi" Type="VI" URL="../Write XML/Write Page ActionVI Properties.vi"/>
 		<Item Name="Write Page Button List Properties.vi" Type="VI" URL="../Write XML/Write Page Button List Properties.vi"/>

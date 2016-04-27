@@ -17,6 +17,7 @@
 		<Item Name="Config Global.vi" Type="VI" URL="../subVI/Config Global.vi"/>
 		<Item Name="ConvertPathtoVSEnum.vi" Type="VI" URL="../subVI/ConvertPathtoVSEnum.vi"/>
 		<Item Name="ConvertVSEnumToPath.vi" Type="VI" URL="../subVI/ConvertVSEnumToPath.vi"/>
+		<Item Name="Create New GUID.vi" Type="VI" URL="../subVI/Create New GUID.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../subVI/Error.vi"/>
 		<Item Name="FileDialog.vi" Type="VI" URL="../subVI/FileDialog.vi"/>
 		<Item Name="FilePaths.vi" Type="VI" URL="../subVI/FilePaths.vi"/>

@@ -27,6 +27,7 @@
 		<Item Name="Save.vi" Type="VI" URL="../subVI/Save.vi"/>
 		<Item Name="SaveAs.vi" Type="VI" URL="../subVI/SaveAs.vi"/>
 		<Item Name="SaveDialog.vi" Type="VI" URL="../subVI/SaveDialog.vi"/>
+		<Item Name="Send Message to Create Child Object.vi" Type="VI" URL="../subVI/Send Message to Create Child Object.vi"/>
 	</Item>
 	<Item Name="Configuration Tool Main.vi" Type="VI" URL="../Configuration Tool Main.vi"/>
 </Library>

@@ -89,6 +89,7 @@
 			<Item Name="RunTimeButton.lvclass" Type="LVClass" URL="../Classes/RunTimeButton/RunTimeButton.lvclass"/>
 			<Item Name="RunTimeMenuItem.lvclass" Type="LVClass" URL="../Classes/RunTimeMenuItem/RunTimeMenuItem.lvclass"/>
 			<Item Name="ActionVI.lvclass" Type="LVClass" URL="../Classes/ActionVI/ActionVI.lvclass"/>
+			<Item Name="Dependencies.lvclass" Type="LVClass" URL="../Classes/Depedencies/Dependencies.lvclass"/>
 		</Item>
 		<Item Name="Glyphs" Type="Folder">
 			<Item Name="button.png" Type="Document" URL="../Glyphs/button.png"/>
@@ -107,8 +108,7 @@
 			<Item Name="pxi target.png" Type="Document" URL="../Glyphs/pxi target.png"/>
 		</Item>
 		<Item Name="Configuration Tool.lvlib" Type="Library" URL="../Configuration Tool.lvlib"/>
-		<Item Name="VeriStand XML Parser.lvlib" Type="Library" URL="../VeriStand XML Parser.lvlib"/>
-		<Item Name="Dependencies Properties.ctl" Type="VI" URL="../XML Controls/Dependencies Properties.ctl"/>
+		<Item Name="VeriStand Custom Device XML Parser.lvlib" Type="Library" URL="../VeriStand Custom Device XML Parser.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>

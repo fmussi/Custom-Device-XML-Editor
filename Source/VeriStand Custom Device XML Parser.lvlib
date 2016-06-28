@@ -11,6 +11,7 @@
 		<Item Name="Read Init VI.vi" Type="VI" URL="../Read XML/Read Init VI.vi"/>
 		<Item Name="Read Loc String.vi" Type="VI" URL="../Read XML/Read Loc String.vi"/>
 		<Item Name="Read Main GUID.vi" Type="VI" URL="../Read XML/Read Main GUID.vi"/>
+		<Item Name="Read Object Dependencies.vi" Type="VI" URL="../Read XML/Read Object Dependencies.vi"/>
 		<Item Name="Read Page Action VI Properties.vi" Type="VI" URL="../Read XML/Read Page Action VI Properties.vi"/>
 		<Item Name="Read Page Button Properties.vi" Type="VI" URL="../Read XML/Read Page Button Properties.vi"/>
 		<Item Name="Read Page General Properties.vi" Type="VI" URL="../Read XML/Read Page General Properties.vi"/>
@@ -21,6 +22,7 @@
 	</Item>
 	<Item Name="Write XML" Type="Folder">
 		<Item Name="Create Loc String Object.vi" Type="VI" URL="../Write XML/Create Loc String Object.vi"/>
+		<Item Name="Create Object Dependency.vi" Type="VI" URL="../Write XML/Create Object Dependency.vi"/>
 		<Item Name="Create Path Object.vi" Type="VI" URL="../Write XML/Create Path Object.vi"/>
 		<Item Name="Write Basic CD Properties.vi" Type="VI" URL="../Write XML/Write Basic CD Properties.vi"/>
 		<Item Name="Write Dependencies Properties.vi" Type="VI" URL="../Write XML/Write Dependencies Properties.vi"/>
@@ -39,6 +41,7 @@
 		<Item Name="Button Type.ctl" Type="VI" URL="../XML Controls/Button Type.ctl"/>
 		<Item Name="ButtonLists Properties.ctl" Type="VI" URL="../XML Controls/ButtonLists Properties.ctl"/>
 		<Item Name="Custom Device Source Distribution Properties.ctl" Type="VI" URL="../XML Controls/Custom Device Source Distribution Properties.ctl"/>
+		<Item Name="Dependencies Properties.ctl" Type="VI" URL="../XML Controls/Dependencies Properties.ctl"/>
 		<Item Name="Dependency Properties.ctl" Type="VI" URL="../XML Controls/Dependency Properties.ctl"/>
 		<Item Name="Execution Types.ctl" Type="VI" URL="../XML Controls/Execution Types.ctl"/>
 		<Item Name="Help File Properties.ctl" Type="VI" URL="../XML Controls/Help File Properties.ctl"/>

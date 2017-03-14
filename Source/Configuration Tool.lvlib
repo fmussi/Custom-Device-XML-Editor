@@ -18,12 +18,15 @@
 		<Item Name="ConvertPathtoVSEnum.vi" Type="VI" URL="../subVI/ConvertPathtoVSEnum.vi"/>
 		<Item Name="ConvertVSEnumToPath.vi" Type="VI" URL="../subVI/ConvertVSEnumToPath.vi"/>
 		<Item Name="Create New GUID.vi" Type="VI" URL="../subVI/Create New GUID.vi"/>
+		<Item Name="Diplay Documentation Image.vi" Type="VI" URL="../subVI/Diplay Documentation Image.vi"/>
 		<Item Name="Error.vi" Type="VI" URL="../subVI/Error.vi"/>
 		<Item Name="FileDialog.vi" Type="VI" URL="../subVI/FileDialog.vi"/>
 		<Item Name="FilePaths.vi" Type="VI" URL="../subVI/FilePaths.vi"/>
+		<Item Name="Format UI Size.vi" Type="VI" URL="../subVI/Format UI Size.vi"/>
 		<Item Name="Get Possible Targets.vi" Type="VI" URL="../subVI/Get Possible Targets.vi"/>
 		<Item Name="MenuOptions.vi" Type="VI" URL="../subVI/MenuOptions.vi"/>
 		<Item Name="Modified Framework AddNode.vi" Type="VI" URL="../subVI/Modified Framework AddNode.vi"/>
+		<Item Name="PreviewPicture.vi" Type="VI" URL="../subVI/PreviewPicture.vi"/>
 		<Item Name="Save.vi" Type="VI" URL="../subVI/Save.vi"/>
 		<Item Name="SaveAs.vi" Type="VI" URL="../subVI/SaveAs.vi"/>
 		<Item Name="SaveDialog.vi" Type="VI" URL="../subVI/SaveDialog.vi"/>

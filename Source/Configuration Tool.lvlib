@@ -23,6 +23,8 @@
 		<Item Name="FileDialog.vi" Type="VI" URL="../subVI/FileDialog.vi"/>
 		<Item Name="FilePaths.vi" Type="VI" URL="../subVI/FilePaths.vi"/>
 		<Item Name="Format UI Size.vi" Type="VI" URL="../subVI/Format UI Size.vi"/>
+		<Item Name="Get Active Project.vi" Type="VI" URL="../subVI/Get Active Project.vi"/>
+		<Item Name="Get All Open Projects.vi" Type="VI" URL="../subVI/Get All Open Projects.vi"/>
 		<Item Name="Get Possible Targets.vi" Type="VI" URL="../subVI/Get Possible Targets.vi"/>
 		<Item Name="Get Top Level References.vi" Type="VI" URL="../subVI/Get Top Level References.vi"/>
 		<Item Name="Global Settings.vi" Type="VI" URL="../subVI/Global Settings.vi"/>
@@ -30,11 +32,16 @@
 		<Item Name="MenuOptions.vi" Type="VI" URL="../subVI/MenuOptions.vi"/>
 		<Item Name="Modified Framework AddNode.vi" Type="VI" URL="../subVI/Modified Framework AddNode.vi"/>
 		<Item Name="PreviewPicture.vi" Type="VI" URL="../subVI/PreviewPicture.vi"/>
+		<Item Name="Recursive Search Owned Items for XML files.vi" Type="VI" URL="../subVI/Recursive Search Owned Items for XML files.vi"/>
+		<Item Name="Refresh.ctl" Type="VI" URL="../Controls/Refresh.ctl"/>
 		<Item Name="Save.vi" Type="VI" URL="../subVI/Save.vi"/>
 		<Item Name="SaveAs.vi" Type="VI" URL="../subVI/SaveAs.vi"/>
 		<Item Name="SaveDialog.vi" Type="VI" URL="../subVI/SaveDialog.vi"/>
+		<Item Name="Search Project for XML Files.vi" Type="VI" URL="../subVI/Search Project for XML Files.vi"/>
 		<Item Name="Send Message to Create Child Object.vi" Type="VI" URL="../subVI/Send Message to Create Child Object.vi"/>
 		<Item Name="Set First Tab to Node Text.vi" Type="VI" URL="../subVI/Set First Tab to Node Text.vi"/>
+		<Item Name="Set Target Project.vi" Type="VI" URL="../subVI/Set Target Project.vi"/>
 	</Item>
 	<Item Name="Configuration Tool Main.vi" Type="VI" URL="../Configuration Tool Main.vi"/>
+	<Item Name="Initialize Target Project.vi" Type="VI" URL="../subVI/Initialize Target Project.vi"/>
 </Library>

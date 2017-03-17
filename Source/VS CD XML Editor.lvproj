@@ -112,7 +112,6 @@
 		</Item>
 		<Item Name="Configuration Tool.lvlib" Type="Library" URL="../Configuration Tool.lvlib"/>
 		<Item Name="VeriStand Custom Device XML Parser.lvlib" Type="Library" URL="../VeriStand Custom Device XML Parser.lvlib"/>
-		<Item Name="Launch Custom Device XML Configuration Tool.vi" Type="VI" URL="../Launch Custom Device XML Configuration Tool.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>

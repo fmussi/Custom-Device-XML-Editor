@@ -14,6 +14,7 @@
 		<Item Name="StateCluster.ctl" Type="VI" URL="../Controls/StateCluster.ctl"/>
 	</Item>
 	<Item Name="subVI" Type="Folder">
+		<Item Name="Add Dependency Dialog.vi" Type="VI" URL="../subVI/Add Dependency Dialog.vi"/>
 		<Item Name="Config Global.vi" Type="VI" URL="../subVI/Config Global.vi"/>
 		<Item Name="ConvertPathtoVSEnum.vi" Type="VI" URL="../subVI/ConvertPathtoVSEnum.vi"/>
 		<Item Name="ConvertVSEnumToPath.vi" Type="VI" URL="../subVI/ConvertVSEnumToPath.vi"/>
@@ -28,6 +29,7 @@
 		<Item Name="Get Possible Targets.vi" Type="VI" URL="../subVI/Get Possible Targets.vi"/>
 		<Item Name="Get Top Level References.vi" Type="VI" URL="../subVI/Get Top Level References.vi"/>
 		<Item Name="Global Settings.vi" Type="VI" URL="../subVI/Global Settings.vi"/>
+		<Item Name="Initialize Target Project.vi" Type="VI" URL="../subVI/Initialize Target Project.vi"/>
 		<Item Name="Load Glyph.vi" Type="VI" URL="../subVI/Load Glyph.vi"/>
 		<Item Name="MenuOptions.vi" Type="VI" URL="../subVI/MenuOptions.vi"/>
 		<Item Name="Modified Framework AddNode.vi" Type="VI" URL="../subVI/Modified Framework AddNode.vi"/>
@@ -43,5 +45,5 @@
 		<Item Name="Set Target Project.vi" Type="VI" URL="../subVI/Set Target Project.vi"/>
 	</Item>
 	<Item Name="Configuration Tool Main.vi" Type="VI" URL="../Configuration Tool Main.vi"/>
-	<Item Name="Initialize Target Project.vi" Type="VI" URL="../subVI/Initialize Target Project.vi"/>
+	<Item Name="Launch Custom Device XML Configuration Tool.vi" Type="VI" URL="../Launch Custom Device XML Configuration Tool.vi"/>
 </Library>

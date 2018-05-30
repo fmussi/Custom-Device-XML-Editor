@@ -2,10 +2,6 @@
 
 The **Custom Device XML Editor** is a tool that is meant to simplify configuration of custom devices by giving you a better, simpler interface and automatically exposing the user to all configuration options without needing to know the possible XML tags.
 
-### Source is Not Public ###
-
-This tool is still very much in dev and is just a side project. Once it gets to a stable spot, I'll move it to our GIT repo since there's no reason long term for this tool/source to remain internal.
-
 ### LabVIEW Version ###
 
 LabVIEW 2015 & VeriStand 2015

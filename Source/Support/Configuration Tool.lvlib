@@ -27,9 +27,11 @@
 		<Item Name="Get All Open Projects.vi" Type="VI" URL="../subVI/Get All Open Projects.vi"/>
 		<Item Name="Get Possible Targets.vi" Type="VI" URL="../subVI/Get Possible Targets.vi"/>
 		<Item Name="Get Top Level References.vi" Type="VI" URL="../subVI/Get Top Level References.vi"/>
+		<Item Name="Get Veristand Active Version.vi" Type="VI" URL="../subVI/Get Veristand Active Version.vi"/>
 		<Item Name="Get Veristand Versions.vi" Type="VI" URL="../subVI/Get Veristand Versions.vi"/>
 		<Item Name="Global Settings.vi" Type="VI" URL="../subVI/Global Settings.vi"/>
 		<Item Name="Initialize Target Project.vi" Type="VI" URL="../subVI/Initialize Target Project.vi"/>
+		<Item Name="InsightCM DataDir Path.vi" Type="VI" URL="../subVI/InsightCM DataDir Path.vi"/>
 		<Item Name="Load Glyph.vi" Type="VI" URL="../subVI/Load Glyph.vi"/>
 		<Item Name="MenuOptions.vi" Type="VI" URL="../subVI/MenuOptions.vi"/>
 		<Item Name="Modified Framework AddNode.vi" Type="VI" URL="../subVI/Modified Framework AddNode.vi"/>

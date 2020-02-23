@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2017-03-17 12:04:06" Modified_Date="2020-02-11 18:36:17" Creator="Tanner Blair" Comments="" ID="95dee818779c0240a68082b45f7eb7ec">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2017-03-17 12:04:06" Modified_Date="2020-02-23 15:41:27" Creator="Tanner Blair" Comments="" ID="137f872bee8d5c072237329b01741c56">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_Custom_Device_XML_Editor</Package_File_Name>
-    <Library_Version>1.0.0.11</Library_Version>
+    <Library_Version>1.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
